@@ -9,6 +9,7 @@ if RUBY_ENGINE == 'ruby'
   SimpleCov.start
 end
 
+require 'breachalarm'
 require 'rspec'
 
 RSpec.configure do |config|

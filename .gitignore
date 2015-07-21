@@ -1,3 +1,7 @@
+# RubyGems-related
 .bundle/
 coverage/
 vendor/
+
+# Editors
+*.swp
